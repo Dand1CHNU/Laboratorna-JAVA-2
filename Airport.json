@@ -1,0 +1,33 @@
+{
+  "nameAirport" : "Shevchenko",
+  "numberAirport" : 3,
+  "list" : [ {
+    "id" : 4,
+    "gender" : "Male",
+    "age" : 31,
+    "name" : "Anton",
+    "surname" : "Krypov",
+    "lastname" : "Denisovych"
+  }, {
+    "id" : 2,
+    "gender" : "Female",
+    "age" : 22,
+    "name" : "Sasha",
+    "surname" : "Vatin",
+    "lastname" : "Olehyvna"
+  }, {
+    "id" : 5,
+    "gender" : "Female",
+    "age" : 19,
+    "name" : "Yevhen",
+    "surname" : "Puzenko",
+    "lastname" : "Viktorivna"
+  }, {
+    "id" : 1,
+    "gender" : "Male",
+    "age" : 51,
+    "name" : "Artem",
+    "surname" : "Dorosenko",
+    "lastname" : "Panasovych"
+  } ]
+}
